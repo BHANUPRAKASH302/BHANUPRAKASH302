@@ -168,31 +168,4 @@ Developed an **AI/ML-based Environmental Education platform** during a hackathon
 
 ---
 
-# 💻 Competitive Programming
-
-- CodeChef Global Rank: **63181**
-- Solved problems on:
-  - LeetCode
-  - CodeForces
-  - CodeChef
-  - InterviewBit
-
----
-
-# 📊 GitHub Stats
-
-![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHANUPRAKASH302&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUPRAKASH302&layout=compact&theme=tokyonight)
-
----
-
-# 🌐 Connect With Me
-
-- LinkedIn
-- GitHub
-- Portfolio
-
----
-
 ⭐ *Always learning, always building, always improving.*
