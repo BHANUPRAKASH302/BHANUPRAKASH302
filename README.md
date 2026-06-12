@@ -231,34 +231,6 @@ Created an **AI/ML-based Environmental Education Platform** during a national ha
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/BHANUPRAKASH302">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:bhanuprakashchagantipati@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BHANUPRAKASH302&show_icons=true&theme=tokyonight"/>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BHANUPRAKASH302&theme=tokyonight"/>
 </p>
@@ -269,10 +241,23 @@ Created an **AI/ML-based Environmental Education Platform** during a national ha
 
 ---
 
-## 📫 Contact
+## 🌐 Connect With Me
 
-* GitHub: https://github.com/BHANUPRAKASH302
-* Email: [bhanuprakashchagantipati@gmail.com](mailto:bhanuprakashchagantipati@gmail.com)
+<p align="left">
+
+<a href="https://github.com/BHANUPRAKASH302">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/chagantipatibhanuprakash">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:bhanuprakashchagantipati@gmail.com ">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
 
 ---
 
@@ -283,5 +268,3 @@ Created an **AI/ML-based Environmental Education Platform** during a national ha
 <p align="center">
 🚀 Turning Ideas into Reality through Technology
 </p>
-
-
