@@ -231,12 +231,7 @@ Created an **AI/ML-based Environmental Education Platform** during a national ha
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BHANUPRAKASH302&show_icons=true&theme=tokyonight"/>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BHANUPRAKASH302&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUPRAKASH302&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
