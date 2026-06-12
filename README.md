@@ -240,11 +240,11 @@ Created an **AI/ML-based Environmental Education Platform** during a national ha
 
 <p align="left">
 
-<a href="https://github.com/BHANUPRAKASH302">
+<a target="blank" href="https://github.com/BHANUPRAKASH302">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/chagantipatibhanuprakash">
+<a target="blank" href="https://linkedin.com/in/chagantipatibhanuprakash">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
