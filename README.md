@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bhanu Prakash Chagantipati
+<h1 align="Center">Hi 👋, I'm Bhanu Prakash Chagantipati</h1>
 
 <h3 align="center">Computer Science (AI & ML) Student | Developer | AI Enthusiast | Future Tech Builder</h3>
 
