@@ -39,7 +39,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-### 🚀 _"I build production-grade AI systems and share the journey — turning 12+ years of ML research into open-source resources that 86k+ developers learn from."_
+### 🚀 _"Build production-grade Web Application systems and share the journey — turning 2+ years of Coding Experience into Architecting dApps with Blockchain."_
 
 </div>
 
