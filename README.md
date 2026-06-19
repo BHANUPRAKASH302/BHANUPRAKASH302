@@ -136,7 +136,7 @@ learning:    DevOps
   <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark&animate=true" width="48" height="48" alt="javascript" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="mysql" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&animate=true" width="48" height="48" alt="linux" />
+  <!--<img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&animate=true" width="48" height="48" alt="linux" /> -->
 </td>
 </tr>
 <tr>
@@ -158,15 +158,20 @@ learning:    DevOps
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark&animate=true" width="48" height="48" alt="firebase" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase&theme=dark&animate=true" width="48" height="48" alt="supabase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark&animate=true" width="48" height="48" alt="postgres" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark&animate=true" width="48" height="48" alt="redis" />
 </td>
 </tr>
 <tr>
-<td align="right"><b>🔧 Tools.Platforms</b></td>
+<td align="right"><b>🔧 Tools & Platforms</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark&animate=true" width="48" height="48" alt="postgres" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka&theme=dark&animate=true" width="48" height="48" alt="kafka" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark&animate=true" width="48" height="48" alt="redis" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark&animate=true" width="48" height="48" alt="vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm&theme=dark&animate=true" width="48" height="48" alt="pycharm" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark&animate=true" width="48" height="48" alt="postman" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark&animate=true" width="48" height="48" alt="github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress&theme=dark&animate=true" width="48" height="48" alt="wordpress" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark&animate=true" width="48" height="48" alt="n8n" />
 </td>
 </tr>
 <tr>
@@ -181,19 +186,19 @@ learning:    DevOps
 <tr>
 <td align="right"><b>🚀 Currently Learning</b></td>
 <td>
-  <<img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark&animate=true" width="48" height="48" alt="aws" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark&animate=true" width="48" height="48" alt="aws" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark&animate=true" width="48" height="48" alt="kubernetes" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=terraform&theme=dark&animate=true" width="48" height="48" alt="terraform" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins&theme=dark&animate=true" width="48" height="48" alt="jenkins" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark&animate=true" width="48" height="48" alt="ai-agents" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx&theme=dark&animate=true" width="48" height="48" alt="nginx" />
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-**🧬 GenAI · LLMs · Agents · Vector DBs**
+**🧬 GenAI · LLMs · Agents · Vector DBs · DevOps**
 
 <!--![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-1A1A2E?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1A1A2E?style=flat-square&logo=langchain&logoColor=white)
@@ -208,8 +213,6 @@ learning:    DevOps
 ![Weaviate](https://img.shields.io/badge/Weaviate-1A1A2E?style=flat-square&logo=weaviate&logoColor=white)-->
 
 </div>
-
----
 
 <!-- ============================================================ -->
 <!--                  OPEN SOURCE CONTRIBUTIONS                    -->
@@ -235,7 +238,6 @@ learning:    DevOps
 
 <sub>🔍 PRs authored by [@ashishpatel26](https://github.com/search?q=author%3Aashishpatel26+is%3Apr+is%3Amerged&type=pullrequests) and merged into repositories maintained by others.</sub>
 -->
----
 
 <!-- ============================================================ -->
 <!--                       FEATURED PROJECTS                      -->
@@ -261,15 +263,15 @@ learning:    DevOps
 ## 📊 GitHub Metrics & Stats Dashboard
 
 <div align="center">
-
+<!--
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BHANUPRAKASH302&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUPRAKASH302&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-
+-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=BHANUPRAKASH302&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUPRAKASH302&theme=github_dark" width="100%" alt="profile summary"/>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHANUPRAKASH302&theme=github_dark" alt="repos per language"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUPRAKASH302&layout=compact&theme=github_dark" alt="repos per language"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUPRAKASH302&theme=github_dark&utcOffset=5.5" alt="productive time"/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BHANUPRAKASH302&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/BHANUPRAKASH302)
@@ -314,7 +316,7 @@ learning:    DevOps
 </td>
 </tr>
 </table>
--->
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
@@ -322,8 +324,7 @@ learning:    DevOps
 [![Kaggle](https://img.shields.io/badge/Follow%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashishpatel26)
 
 </div>
-
----
+-->
 
 <!-- ============================================================ -->
 <!--                            QUOTE                             -->
