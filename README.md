@@ -263,10 +263,9 @@ learning:    DevOps
 ## 📊 GitHub Metrics & Stats Dashboard
 
 <div align="center">
-<!--
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BHANUPRAKASH302&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUPRAKASH302&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
--->
+<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUPRAKASH302&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/> -->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=BHANUPRAKASH302&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUPRAKASH302&theme=github_dark" width="100%" alt="profile summary"/>
