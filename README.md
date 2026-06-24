@@ -63,14 +63,14 @@ I enjoy building innovative projects, participating in hackathons, and continuou
 ## ⚡ At a Glance
 
 ```yaml
-name:        Ch.Bhanu Prakash
-role:        Software Intern
-company:     Organic Urban Reap
-focus:       Agentic AI · GenAI · DevOps
+name:         Ch.Bhanu Prakash
+role:         Software Intern
+company:      Organic Urban Reap
+focus:        Agentic AI · GenAI · DevOps
 experience1:  2.5+ yrs in Web-Development
 experience2:  1+ yrs in AI
-clouds:      Git,GitHub,Docker
-learning:    DevOps
+clouds:       Git,GitHub,Docker
+learning:     DevOps
 ```
 
 </td>
