@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Bhanu Prakash Chagantipati
 
-<h4>I Have Total 21 Repo's & Few are Private because of there Complexity can't keep them Open Source</h4>
+<h4>I Have Total 22 Repo's & Few are Private because of there Complexity can't keep them Open Source</h4>
 <h3 align="center">Computer Science (AI & ML) Student | Developer | AI Enthusiast | Future Tech Builder</h3>
 
 <p align="center">
@@ -270,8 +270,8 @@ learning:     DevOps
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUPRAKASH302&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/> -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUPRAKASH302&theme=github_dark" width="100%" alt="profile summary"/>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUPRAKASH302&layout=compact&theme=github_dark" alt="repos per language"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUPRAKASH302&theme=github_dark&utcOffset=5.5" alt="productive time"/>
+<!-- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUPRAKASH302&layout=compact&theme=github_dark" alt="repos per language"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUPRAKASH302&theme=github_dark&utcOffset=5.5" alt="productive time"/> -->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BHANUPRAKASH302&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/BHANUPRAKASH302)
 
