@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Bhanu Prakash Chagantipati
 
-<h3>I Have Total 25 Repo's & Few are Private because of there Complexity can't keep them Open Source</h3>
+<h3>I Have Total 27 Repo's & Few are Private because of there Complexity can't keep them Open Source</h3>
 <h3 align="center">Computer Science (AI & ML) Student | Developer | AI Enthusiast | Future Tech Builder</h3>
 
 <p align="center">
